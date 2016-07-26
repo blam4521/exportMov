@@ -29,7 +29,7 @@ def find_missing( list_path ):
 
 	# Finds missing values if they're are missing frames
 	missing = []
-	for i in range(1, max(int_num)):
+	for i in range(1, max(int_num)+1):
 	    if not i in int_num:
 	        missing.append(i)
 
