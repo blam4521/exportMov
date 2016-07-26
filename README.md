@@ -14,7 +14,7 @@ pip install ffmpy
 
 The script takes two arg. The first is the basePath and the second is image_file_format
 
-  # This path is for testing purposes for file image format:
+  	# This path is for testing purposes for file image format:
 	# basePath = "C:\Users\Bears\Documents\GitHub\exportMov\complete_frames_list"
 
 	# Example of file_image_format input:
